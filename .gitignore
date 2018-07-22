@@ -1,0 +1,10 @@
+### UD ###
+.idea
+cmake-*
+build
+build-*
+.DS_Store
+
+### UF ###
+*.o
+*.a
